@@ -1,0 +1,21 @@
+for building i want it to be basic and easy to learn but hard to master, and i want physics
+and weight to be taken into consideration when building bases, i believe we could do something
+between teardown's planks with maybe pillars and higher grades of building material like metal
+sheets.
+or if thats too hard on performance either fake the physics or optimise it heavily to only
+work when, for example only 1 side of a plank/sheet is in contact (though this will ruin some
+parts of the destruction physics)
+to add onto all of this i think we could do something like poly bridge's stress and breaking
+system.
+while i believe this idea will make our game a lot more unique i believe it will also think
+it may make the game harder to run (main goal is to make the game run well) or just too hard
+to build bases.
+
+there is option 2 and three though
+
+option 2:
+the forest/sons of the forest style building but with more customisation options if that makes sense.
+
+option 3:
+boring ahh rust/unturned/7 days to die ahh building, i believe this is overdone and rly boring,
+and why i decided to write this doc in the first place
