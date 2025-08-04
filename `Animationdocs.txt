@@ -1,0 +1,7 @@
+handguns:
+	rirumi:
+		p320 https://www.youtube.com/watch?v=ZuD760OI7iU
+		p2000sk https://www.youtube.com/watch?v=sMJBhkzXz8M
+other:
+	games unite:
+		m4: https://youtu.be/gooR-ERmKjk?t=24
